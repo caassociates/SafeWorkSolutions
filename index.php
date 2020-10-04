@@ -17,7 +17,7 @@ include 'header.php';
               <div class="carousel-content">
                 <h1 class="animate__animated animate__fadeInDown"> <img style="width: 20%; " src="images/sws.png"></h1>
                 <a  href="" class="btn-get-started animate__animated animate__fadeInUp">Request Quotation</a>
-                <a  href="" class="btn-get-started animate__animated animate__fadeInUp">Scheudle a Call</a>
+                <a  href="call.php" class="btn-get-started animate__animated animate__fadeInUp">Scheudle a Call</a>
               </div>
             </div>
           </div>
@@ -44,8 +44,8 @@ include 'header.php';
                 <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
               </div>
             </div>
-          </div>
- -->
+          </div>-->
+          
         </div>
 
         <a  class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
