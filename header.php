@@ -63,7 +63,7 @@
     <div class="container d-flex">
 
       <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.html"><img src="images/mlogo.png"></a></h1>
+        <h1 class="text-light"><a href="index.php"><img src="images/mlogo.png"></a></h1>
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
