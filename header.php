@@ -68,12 +68,15 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li  ><a  href="index.html">Home</a></li>
+          <li  ><a  href="index.php">Home</a></li>
 
           <li class="drop-down"><a  href="#">Products</a>
             <ul>
               <li><a href="about.html">About Us</a></li>
               <li><a  href="team.html">Contact Us</a></li>
+                <li><a  href="confinedspace.php">Confined Space</a></li>
+                <li><a  href="documents.php">Documents</a></li>
+
             </ul>
           </li>
 
