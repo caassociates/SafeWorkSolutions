@@ -76,6 +76,7 @@
               <li><a  href="team.html">Contact Us</a></li>
                 <li><a  href="confinedspace.php">Confined Space</a></li>
                 <li><a  href="documents.php">Documents</a></li>
+                <li><a  href="fire_extinguisher.php">Fire_Extinguisher</a></li>
 
             </ul>
           </li>
