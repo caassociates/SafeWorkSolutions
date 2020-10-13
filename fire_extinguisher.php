@@ -10,11 +10,11 @@ include 'header.php';
         <div  class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background: url(images/confinedspace/hr_43-web.jpg); background-repeat: no-repeat; background-size: cover;">
+          <div class="carousel-item active" style="background: url(images/fireextinguisher/Fire-Extinguisher-50130905.jpg); background-repeat: no-repeat; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
-                  <h2 style="color: white;" class="animate__animated fanimate__adeInDown">CONFINED SPACE PRE-ENTRY</h2>
-                  <p style="color: white; font-weight: 900;" class="animate__animated animate__fadeInUp">Safety awareness & pre-entry</p>
+                  <h2 style="color: white;" class="animate__animated fanimate__adeInDown">FIRE SAFETY EXTINGUISHERS</h2>
+                  <h3 style="color: white; font-weight: 900;" class="animate__animated animate__fadeInUp">Fire safety Extinguishers</h3>
 
               </div>
             </div>
@@ -28,8 +28,7 @@ include 'header.php';
   </section><!-- End Hero -->
 
   <section>
-  <p style="text-align: center; font-weight: 600;margin: 100px">This Confined Spaces Awareness Course will guide you through all aspects of working in a Confined Space, entry and exit, to safe work and rescue procedures. Our comprehensive course will explain in detail what you need to know, emphasize key points and test your knowledge retention after each module. You should check with your employer to see whether or not you need Confined Spaces Training, and to which level of training you will be required to achieve</p>
-  </section>
+      <p style="text-align: center; font-weight: 600;margin: 100px">This Online Fire Extinguishers Course will guide you through all aspects of Fire Extinguishers, from the types of fires, to the classes of Fire Extinguishers. Our comprehensive course will explain in detail what you need to know, emphasize key points and test your knowledge retention after each module. The course has been designed to teach you what you need to know to safely operate a fire extinguisher and understand what types of extinguishers can be used on what types of fires, as well as maintenance and fire safety, so by completing this course you can become a better educated worker and improve your knowledge of an important part in workplace safety.</p></section>
 
   <main id="main">
       <!-- ======= About Section ======= -->
@@ -39,7 +38,7 @@ include 'header.php';
               <div class="row">
 
                   <div class="col-lg-6">
-                      <img style="height: 300px; width: 740px" src="images/confinedspace/confinedspacepage.png" class="img-fluid" alt="">
+                      <img style="height: 300px; width: 740px" src="images/fireextinguisher/fireextinguisherpage.png" class="img-fluid" alt="">
                   </div>
 
 
@@ -52,15 +51,16 @@ include 'header.php';
                           <div class="icon-box" style="width: 500px">
 
                               <h4>Course Outline</h4>
+                              <a>
                               <ul style="text-align: left">
-                                  <a><li>What is a Confined Space?</li></a>
-                                  <li>How to Safely Enter a Confined Space</li>
-                                  <li>Worker and Employer Responsibilities</li>
-                                  <li>Hazard Recognition and Prevention</li>
-                                  <li>Safe Work and Rescue Procedures</li>
+                                 <li>What is the ‘Fire Triangle”?</li>
+                                  <li>What are the different classes of fires?</li>
+                                  <li>How to use and maintain the different types of fire extinguishers</li>
+                                  <li>How to prevent fires from starting and spreading</li>
+
 
                               </ul><button  class="btn btn bt"><a style="color: white;" href="contact.php">GET INFORMATION</a></button>
-
+                              </a>
                           </div>
                       </div> <br>
 
@@ -82,7 +82,7 @@ include 'header.php';
             <div class="icon-box">
 
                 <i><img src="images/clock.png" style="width: 40px; height: 40px;"></i>
-              <h3><a style="">Average Duration: 1.5 - 2 Hours </a></h3>
+              <h3><a style="">Average Duration: 2 Hours </a></h3>
               </div>
           </div>
             <div class="col-lg-3">
