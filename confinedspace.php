@@ -53,11 +53,12 @@ include 'header.php';
 
                               <h4>Course Outline</h4>
                               <ul style="text-align: left">
-                                  <li>What is a Confined Space?</li>
+                                  <a><li>What is a Confined Space?</li></a>
                                   <li>How to Safely Enter a Confined Space</li>
                                   <li>Worker and Employer Responsibilities</li>
                                   <li>Hazard Recognition and Prevention</li>
                                   <li>Safe Work and Rescue Procedures</li>
+
                               </ul><button  class="btn btn bt"><a style="color: white;" href="contact.php">GET INFORMATION</a></button>
 
                           </div>
@@ -81,14 +82,14 @@ include 'header.php';
             <div class="icon-box">
 
                 <i><img src="images/clock.png" style="width: 40px; height: 40px;"></i>
-              <h3>Average Duration: 1.5 - 2 Hours</h3>
+              <h3><a style="">Average Duration: 1.5 - 2 Hours </a></h3>
               </div>
           </div>
             <div class="col-lg-3">
                 <div class="icon-box">
 
                     <i><img src="images/print.png" style="width: 40px; height: 40px;"></i>
-                    <h3>Printable Certificate Upon Completion</h3>
+                    <h3><a>Printable Certificate Upon Completion</a></h3>
                     </div>
             </div>
 
@@ -96,14 +97,14 @@ include 'header.php';
                 <div class="icon-box">
 
                     <i><img src="images/student.png" style="width: 40px; height: 40px;"></i>
-                    <h3> Unlimited Exam Attempts</h3>
+                    <h3><a> Unlimited Exam Attempts</a></h3>
                       </div>
             </div>
             <div class="col-lg-3">
                 <div class="icon-box">
 
                     <i><img src="images/canada.png" style="width: 40px; height: 40px;"></i>
-                    <h3>Standards Compliant</h3>
+                    <h3><a>Standards Compliant</a></h3>
                     </div>
             </div>
         </div>
@@ -113,27 +114,26 @@ include 'header.php';
                 <div class="icon-box">
 
                     <i><img src="images/calendar.png" style="width: 40px; height: 40px;"></i>
-                    <h3>Self-Paced. Available 24/7</h3>
+                    <h3><a>Self-Paced. Available 24/7</a></h3>
                      </div>
             </div>
 
           <div class="col-lg-3 mt-3 mt-lg-0">
             <div class="icon-box">
                 <i><img src="images/user.png" style="width: 40px; height: 40px;"></i>
-              <h3>User Management Tools Available</h3>
+                <h3><a>User Management Tools Available</a></h3>
                </div>
           </div>
           <div class="col-lg-3 mt-3 mt-lg-0">
             <div class="icon-box">
                 <i><img src="images/document.png" style="width: 40px; height: 40px;"></i>
-              <h3> Permanent Record Of Training</h3>
+              <h3><a> Permanent Record Of Training</a></h3>
                </div>
           </div>
           <div class="col-lg-3 mt-3 mt-lg-0">
             <div class="icon-box">
-                <i><img src="images/text.png" style="width: 40px; height: 40px;">
-                </i>
-              <h3>Live Student Support</h3>
+                <i><img src="images/text.png" style="width: 40px; height: 40px;"></i>
+                <h3><a>Live Student Support</a></h3>
              </div>
           </div>
         </div>
