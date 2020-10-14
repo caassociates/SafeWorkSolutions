@@ -28,11 +28,11 @@ include 'header.php';
   <section class="hero " style="backgraound-color: lightgrey;">
     <div class="container">
       <div class="row">
-        <div class="col-md-3"></div>
-        <div class="col-md-6">
+        
+        <div class="col-md-12">
           <p style="color: black; font-size:17px">Make the right choice for your company. National Forklift Training Inc. delivers high-quality,industry recognized forklift training certification. Delivered by experienced and fully-accredited instructors,we make it simple for people of every experience level to get the skills and qualifications they need. Acquiring forklift certification for your staffs has never been simpler than when you choose to work with our team.</p><br>
         </div>
-        <div class="col-md-3"></div>
+        
       </div>
         <div class="row">
 
@@ -89,68 +89,152 @@ include 'header.php';
     </div>
 </section>
   
-  <section class="section border-t pb-0">
+
+<!-- <section id="portfolio" class="portfolio">
       <div class="container">
-        <div class="row justify-content-center mb-5 element-animate">
+         <div class="row justify-content-center mb-5 element-animate">
+          <div class="col-md-10 text-center">
+            <h2 class=" heading mb-4">FORKLIFT TRAINING CERTIFICATION</h2>
+            <p class="mb-5 lead"></p>
+          </div>
+          </div>
+
+
+          <div class="row portfolio-container">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="images/training.png" alt="Image" class="img-fluid" style="width: 50%; height: 50%; padding: 70px;">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                <a class="portfolio-links" href="training.html" >
+                    <i class="bx bx-plus"></i>
+                    <h4>Training</h4>
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 2</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 3</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        </div>
+</section> -->
+
+
+<section id="featured" class="featured">
+      <div class="container">
+     
+       <div class="row justify-content-center mb-5 element-animate">
           <div class="col-md-10 text-center">
             <h2 class=" heading mb-4">FORKLIFT TRAINING CERTIFICATION</h2>
             <p class="mb-5 lead"></p>
           </div>
         </div>
-      </div>
-      <div class="container-fluid">
-        <div class="row no-gutters">
-          <div class="col-md-4 element-animate">
 
-            <a href="training.html" class="link-thumbnail">
-              <h3 style="font-size: 30px;">TRAINING</h3>
-              <span class="ion-plus icon"></span>
-              <img src="images/training.png" alt="Image" class="img-fluid" style="width: 50%; height: 50%; padding: 70px;">
+        <div class="row" style="margin-top:20px;">
+          
+        <div class="col-lg-4">
+          <a href="training.php">
+            <div class="icon-box">
+              <i><img src="images/training.png" style="width: 20%;"></i>
+              <h3 style="color:black;">TRAINING</h3>
+              <p>It depends on the province. training is mandatory.  </p>
+              <button  class="btn btn bt"><a style="color: white;" href="training.php">Read More</a></button>
+            </div>
             </a>
           </div>
-          <div class="col-md-4 element-animate">
-            <a href="duration.html" class="link-thumbnail">
-              <h3  style="font-size: 30px;">DURATION</h3>
-              <span class="ion-plus icon"></span>
-              <img src="images/time (1).png" alt="Image" class="img-fluid"  style="width: 50%; height: 50%; padding: 70px;">
+
+          <div class="col-lg-4 mt-lg-0">
+          <a href="duration.php">
+            <div class="icon-box">
+              <i><img src="images/time (1).png" style="width: 20%;"></i>
+              <h3 style="color:black;">DURATION</h3>
+              <p>Depends on Experience and the type of Equipement.</p>
+              <button  class="btn btn bt"><a style="color: white;" href="duration.php">Read More</a></button>
+            </div>
             </a>
           </div>
-          <div class="col-md-4 element-animate">
-            <a href="location.html" class="link-thumbnail">
-              <h3  style="font-size: 30px;">LOCATION</h3>
-              <span class="ion-plus icon"></span>
-              <img src="images/pin (1).png" alt="Image" class="img-fluid"  style="width: 50%; height: 50%; padding: 70px;">
+          
+          <div class="col-lg-4 mt-3 mt-lg-0">
+          <a href="location.php">
+            <div class="icon-box">
+              <i><img src="images/pin (1).png" style="width: 20%;"></i>
+              <h3 style="color:black;">LOCATION</h3>
+              <p>The training can be done directly at your facility.</p>
+              <button  class="btn btn bt"><a style="color: white;" href="location.php">Read More</a></button>
+            </div>
             </a>
           </div>
-          <div class="col-md-4 element-animate">
-            <a href="course_objevtive.html" class="link-thumbnail">
-              <h3  style="font-size: 30px;">COURSE OBJECTIVE</h3>
-              <span class="ion-plus icon"></span>
-              <img src="images/target (1).png" alt="Image" class="img-fluid"  style="width: 50%; height: 50%; padding: 70px;">
-            </a>
-          </div>
-          <div class="col-md-4 element-animate">
-            <a href="cost_training.html" class="link-thumbnail">
-              <h3  style="font-size: 30px;">COST OF TRAINING</h3>
-              <span class="ion-plus icon"></span>
-              <img src="images/money (2).png" alt="Image" class="img-fluid"  style="width: 50%; height: 50%; padding: 70px;">
-            </a>
-          </div>
-          <div class="col-md-4 element-animate">
-            <a href="documents.html" class="link-thumbnail">
-              <h3  style="font-size: 30px;">DOCUMENTS WE PROVIDE</h3>
-              <span class="ion-plus icon"></span>
-              <img src="images/portable-document-format (1).png" alt="Image" class="img-fluid"  style="width: 50%; height: 50%; padding: 70px;">
-            </a>
-          </div>
-         
          
         </div>
-      
+
+        <div class="row" style="margin-top:20px;">
         
+        <div class="col-lg-4">
+          <a href="">
+            <div class="icon-box">
+              <i><img src="images/target (1).png" style="width: 20%;"></i>
+              <h3 style="color:black;">COURSE OBJECTIVE</h3>
+              <p>Theoritical as well as practical training.</p>
+              <button  class="btn btn bt"><a style="color: white;" href="">Read More</a></button>
+            </div>
+            </a>
+          </div>
+
+          <div class="col-lg-4 mt-3 mt-lg-0">
+          <a href="">
+            <div class="icon-box">
+              <i><img src="images/money (2).png" style="width: 20%;"></i>
+              <h3 style="color:black;">COST OF TRAINING</h3>
+              <p>Standard training and attractive price.</p>
+              <button  class="btn btn bt"><a style="color: white;" href="">Read More</a></button>
+            </div>
+            </a>
+          </div>
+          
+          <div class="col-lg-4 mt-3 mt-lg-0">
+          <a href="">
+            <div class="icon-box">
+              <i><img src="images/portable-document-format (1).png" style="width: 20%;"></i>
+              <h3 style="color:black;">DOCUMENTS WE PROVIDE</h3>
+              <p>Training material and the accreditation. </p>
+              <button  class="btn btn bt"><a style="color: white;" href="">Read More</a></button>
+            </div>
+            </a>
+          </div>
+            
+        </div>
       </div>
-    </section>
-<!-- END section -->
+    </section><!-- End Featured Section -->
+
  
 <?php 
 include 'footer.php';
