@@ -79,6 +79,7 @@
                 <li><a  href="fire_extinguisher.php">Fire Extinguisher</a></li>
                 <li><a  href="lockout.php">Lockout</a></li>
                 <li><a  href="WHIMS.php">WHIMS</a></li>
+                <li><a  href="cost_pricing.php">Cost pricing</a></li>
             </ul>
           </li>
 
