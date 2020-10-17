@@ -8,11 +8,11 @@
         <div  class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background: url(images/cranesafety/Crawler-cranes-1.jpg); background-repeat: no-repeat; background-size: cover; height: calc(50vh - 117px); min-height: 550px;">
+          <div class="carousel-item active" style="background: url(images/TDG/unnamed.jpg); background-repeat: no-repeat; background-size: cover; height: calc(50vh - 117px); min-height: 550px;">
             <div class="carousel-container">
               <div class="carousel-content">
-              <h2 style="color: #cdaf36;" class="animate__animated fanimate__adeInDown">CRANE SAFETY CERTIFICATION</h2>
-                  <h3 style="color: #cdaf36; font-weight: 900;" class="animate__animated animate__fadeInUp">Safe work practices & hazards awareness</h3>
+              <h2 style="color: white;" class="animate__animated fanimate__adeInDown">TDG CERTIFICATION</h2>
+                  <h3 style="color: white; font-weight: 900;" class="animate__animated animate__fadeInUp">Working safely when exposed to fall hazards</h3>
               </div>
             </div>
           </div>
@@ -27,7 +27,7 @@
       <div class="container">
              <div class="row">
                  <div class="col-12">
-                  <p><img src="images/cranesafety/cranesafetypage1.png" alt="Image" class="img-fluid"></p>
+                  <p><img src="images/TDG/tdgpage1.png" alt="Image" class="img-fluid"></p>
                 </div>
             </div>
         </div>
@@ -40,12 +40,13 @@
         <div class="row">
 
         <div class="col-lg-6 pt-4 pt-lg-0 content">
-            <h3><strong>Safe Work Practice For Crane Safety</strong></h3>
+            <h4><strong>TRANSPORTATION OF DANGEROUS GOODS BY GROUND</strong></h4>
 
-            <p>In today’s construction and manufacturing industries it is crucial to be able to move large objects safely,
-                timely, and effectively. To do such tasks we can use crane and rigging systems.</p>
-            <p>This course is intended to familiarize the student with the types of cranes,
-                their hazards, and appropriate safety procedures for their use.</p>
+            <p>Canadian law requires anyone involved in shipping, receiving, handling, or transporting dangerous goods require training on TDG regulations and must be aware of what they are handling.
+</p>     
+    <p>        A TDG certificate is valid for three (3) years. TDG Certificates are not transferable.
+                 A new certificate is required each time a worker changes employment.</p>
+            
           </div>
 
 
@@ -55,12 +56,16 @@
                 </h5>
                 <div class="card-body">
                   <ul>
-                    <li>Mobile Cranes</li>
-                    <li>Overhead and Gantry Cranes</li>
-                    <li>Powered and Manual Hoists</li>
-                    <li>Pulpit-operated Cranes</li> 
-                    <li>Types of Cranes</li>    
-                    <li>OSHA Standards</li>
+                  <li>An Introduction To TDG</li>
+                    <li>Training Requirements</li>
+                    <li>Classifications</li>
+                    <li>Dangerous Goods Classes</li>
+                    <li>Documentation</li>
+                    <li>Safety Marks</li>
+                    <li>Containers</li>
+                    <li>Dangerous Goods Incidents </li>
+                    <li>Emergency Response </li>
+                    <li>Special Situation </li>
                   </ul>
                   <div class="text-center">
                     <a style="border-color: black;color: black; background-color: #cdaf36" class="btn btn-primary btn-larg" href="contact.html">GET INFORMATION
@@ -85,7 +90,7 @@
                   <li>
                     <i><img src="images/clock.png" style="width: 40px; height: 40px;">
                     </i>&ensp;
-                    Average Duration: 2.5 Hours
+                    Average Duration: 3 Hours
                   </li><br>
                   <li>
                     <i><img src="images/print.png" style="width: 40px; height: 40px;">
@@ -100,7 +105,7 @@
                   <li>
                     <i><img src="images/canada.png" style="width: 40px; height: 40px;">
                     </i>&ensp;
-                    Standards Compliant
+                    Standards Compliant Across Canada
                   </li><br>
                 </ul>
               </div>
