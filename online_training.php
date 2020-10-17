@@ -115,7 +115,7 @@ include 'header.php';
    <img src="images/training/img-4.png" alt="Image" class="img-fluid">
     <div class="portfolio-info">
       <div class="portfolio-links">
-       <a  href="fire_extinguisher.html" >
+       <a  href="fire_extinguisher.php" >
           <i class="bx bx-plus"></i>
           <p></p>
 

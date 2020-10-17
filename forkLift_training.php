@@ -204,7 +204,7 @@ include 'header.php';
               <i><img src="images/target (1).png" style="width: 20%;"></i>
               <h3 style="color:black;">COURSE OBJECTIVE</h3>
               <p>Theoritical as well as practical training.</p>
-              <button  class="btn btn bt"><a style="color: white;" href="">Read More</a></button>
+              <button  class="btn btn bt"><a style="color: white;" href="course_objective.php">Read More</a></button>
             </div>
             </a>
           </div>
@@ -226,7 +226,7 @@ include 'header.php';
               <i><img src="images/portable-document-format (1).png" style="width: 20%;"></i>
               <h3 style="color:black;">DOCUMENTS WE PROVIDE</h3>
               <p>Training material and the accreditation. </p>
-              <button  class="btn btn bt"><a style="color: white;" href="">Read More</a></button>
+              <button  class="btn btn bt"><a style="color: white;" href="documents.php">Read More</a></button>
             </div>
             </a>
           </div>
