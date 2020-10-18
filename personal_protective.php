@@ -22,7 +22,7 @@ include 'header.php';
     <div class="hero-container">
       <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
-<div class="carousel-item active" style="background: url(images/ppe/construction-safety-protective-hard-hat-headphones-gloves-and-glasses-on-wooden-background-copy-space-top-view-1024x512.jpg); background-repeat: no-repeat; background-size: cover;">
+<div class="carousel-item active" style="background: url(images/img105.jpg); background-repeat: no-repeat; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
                <h2 style="color: white;" class="animate__animated fanimate__adeInDown">PERSONAL <span>PROTECTIVE EQUIPMENT</span></h2>

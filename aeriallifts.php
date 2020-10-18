@@ -22,10 +22,10 @@ include 'header.php';
     <div class="hero-container">
       <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
-<div class="carousel-item active" style="background: url(images/aeriallifts/b55dfe9138b8ab58cb97f8097ee248a3.jpg); background-repeat: no-repeat; background-size: cover;">
+<div class="carousel-item active" style="background: url(images/img102.jpg); background-repeat: no-repeat; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
-               <h2 style="color: white;" class="animate__animated fanimate__adeInDown">Elevating<span>work platform</span></h2>
+               <h2 style="color: white;" class="animate__animated fanimate__adeInDown">Elevating<span>  work platform</span></h2>
                <h6 style="color: white; font-weight: 900;" class="animate__animated animate__fadeInUp">Aerial lifts & Aerial work platforms operator training</h6>
               </div>
             </div>

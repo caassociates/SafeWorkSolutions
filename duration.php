@@ -5,7 +5,7 @@ include 'header.php';
     <div class="hero-container">
       <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
-<div class="carousel-item active" style="background: url(images/traditional_warehouse_and_an_omnichannel_warehouse_wide.jpg); background-repeat: no-repeat; background-size: cover;">
+<div class="carousel-item active" style="background: url(images/img101.jpg); background-repeat: no-repeat; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
                <h2 style="color: white;" class="animate__animated fanimate__adeInDown">DURATION</h2>
