@@ -5,7 +5,7 @@ include 'header.php';
     <div class="hero-container">
       <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
-<div class="carousel-item active" style="background: url(images/Warehouse-Inventory2.jpg); background-repeat: no-repeat; background-size: cover;">
+<div class="carousel-item active" style="background: url(images/img103.jpg); background-repeat: no-repeat; background-size: cover;">
             <div class="carousel-container">
               <div class="carousel-content">
                <h2 style="color: white;" class="animate__animated fanimate__adeInDown">Course <span>Objective</span></h2>
@@ -20,12 +20,12 @@ include 'header.php';
       <section id="about" class="about" >
       <div class="container">
         <div class="row">
-          <div class=" pt-4 pt-lg-0 content " style="text-align: center;margin: 20px 0 20px 0;">
+          <div class=" pt-4 pt-lg-0 content " style="text-align: center;margin: 5% 0 5% 0;">
             <h3>Our training will guide you through all aspects of Lift Truck Safety, from Pre-Operation Inspection to Stability</h3>
           </div>
         </div>
           <div class="row" >
-          <div class="col-lg-6 pt-4 pt-lg-0 content">
+          <div class="col-lg-4 pt-4 pt-lg-0 content" style="margin-left: 15%">
             <h3>THEORY</h3>
             <ul>
               <li><i class="icofont-check-circled"></i> Type Of Lift Trucks</li>
